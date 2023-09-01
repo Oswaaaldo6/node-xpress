@@ -1,9 +1,16 @@
-{
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
-}
+<table>
+    <tr>
+        <td> nombre <br>
+             titulo <br>
+        </td>
+        <td>
+            foto
+        </td>
+        <td>
+            email <br>
+            celular <br>
+            ubicacion <br>
+            redSocial<br>
+        </td>
+    </tr>
+</table
